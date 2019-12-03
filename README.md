@@ -1,10 +1,10 @@
 
 ## Usage
 
-Run the vaultd service:
+Run service:
 
 ```
-cd vault/cmd/vaultd
+cd gokitexample/cmd/vaultd
 go run main.go
 ```
 
