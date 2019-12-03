@@ -4,7 +4,7 @@ import (
 	"golang.org/x/net/context"
 
 	grpctransport "github.com/go-kit/kit/transport/grpc"
-	"github.com/matryer/goblueprints/chapter10/vault/pb"
+	"gokitexample/pb"
 )
 
 // NewGRPCServer gets a new pb.VaultServer.

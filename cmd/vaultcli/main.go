@@ -8,8 +8,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/matryer/goblueprints/chapter10/vault"
-	grpcclient "github.com/matryer/goblueprints/chapter10/gokitexample/client/grpc"
+	vault	"gokitexample"
+	grpcclient "gokitexample/client/grpc"
 	"google.golang.org/grpc"
 )
 

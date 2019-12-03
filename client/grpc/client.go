@@ -2,8 +2,8 @@ package grpc
 
 import (
 	grpctransport "github.com/go-kit/kit/transport/grpc"
-	"github.com/matryer/goblueprints/chapter10/vault"
-	"github.com/matryer/goblueprints/chapter10/vault/pb"
+	vault "gokitexample"
+	"gokitexample/pb"
 	"google.golang.org/grpc"
 )
 
